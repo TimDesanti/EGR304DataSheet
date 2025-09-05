@@ -1,4 +1,4 @@
-site_name: EGR 304 Data Sheet Template
+site_name: EGR 304 Tim Desanti Data Sheet Template
 site_url: https://embedded-systems-design.github.io/EGR304DataSheetTemplate
 repo_url: https://github.com/embedded-systems-design/EGR304DataSheetTemplate
 edit_uri: edit/main/docs/
@@ -67,3 +67,4 @@ extra:
     - icon: fontawesome/regular/file-code
       link: /2025_fall
       name: 2023 Site    
+      # edit my name into the site name
